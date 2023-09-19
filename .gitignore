@@ -1,0 +1,71 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+cotizador-prestamos/node_modules/
+
+# Expo
+cotizador-prestamos/.expo/
+cotizador-prestamos/dist/
+cotizador-prestamos/web-build/
+
+# Native
+cotizador-prestamos/*.orig.*
+cotizador-prestamos/*.jks
+cotizador-prestamos/*.p8
+cotizador-prestamos/*.p12
+cotizador-prestamos/*.key
+cotizador-prestamos/*.mobileprovision
+
+# Metro
+cotizador-prestamos/.metro-health-check*
+
+# debug
+cotizador-prestamos/npm-debug.*
+cotizador-prestamos/yarn-debug.*
+cotizador-prestamos/yarn-error.*
+
+# macOS
+cotizador-prestamos/.DS_Store
+cotizador-prestamos/*.pem
+
+# local env files
+cotizador-prestamos/.env*.local
+
+# typescript
+cotizador-prestamos/*.tsbuildinfo
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+salario-neto/node_modules/
+
+# Expo
+salario-neto/.expo/
+salario-neto/dist/
+salario-neto/web-build/
+
+# Native
+salario-neto/*.orig.*
+salario-neto/*.jks
+salario-neto/*.p8
+salario-neto/*.p12
+salario-neto/*.key
+salario-neto/*.mobileprovision
+
+# Metro
+salario-neto/.metro-health-check*
+
+# debug
+salario-neto/npm-debug.*
+salario-neto/yarn-debug.*
+salario-neto/yarn-error.*
+
+# macOS
+.DS_Store
+salario-neto/*.pem
+
+# local env files
+salario-neto/.env*.local
+
+# typescript
+salario-neto/*.tsbuildinfo

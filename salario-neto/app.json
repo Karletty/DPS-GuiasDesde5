@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "salario-neto",
+    "slug": "salario-neto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "salario-neto"
+}
