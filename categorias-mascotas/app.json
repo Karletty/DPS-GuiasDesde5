@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "categorias-mascotas",
+    "slug": "categorias-mascotas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "categorias-mascotas"
+}
